@@ -1,0 +1,73 @@
+<xml>
+    <group>P3130</group>
+    <even_week>true</even_week>
+    <day>
+        <day_name>Четверг</day_name>
+        <schedule>
+            <class>
+                <time>
+                    <start>8:20</start>
+                    <end>9:50</end>
+                    <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+                </time>
+                <adress>
+                    <auditorium>2305/1 (БЫВШ. 303/2 (УСЛ)) АУД.</auditorium>
+                    <campus>Кронверкский пр., д.49, лит.А</campus>
+                </adress>
+                <information>
+                    <title>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</title>
+                    <lecturer>Перцев Тимофей Сергеевич</lecturer>
+                    <format>Очно - дистанционный</format>
+                </information>
+            </class>
+            <class>
+                <time>
+                    <start>10:00</start>
+                    <end>11:30</end>
+                    <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+                </time>
+                <adress>
+                    <auditorium>2305/1 (БЫВШ. 303/2 (УСЛ)) АУД.</auditorium>
+                    <campus>Кронверкский пр., д.49, лит.А</campus>
+                </adress>
+                <information>
+                    <title>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛАБ)</title>
+                    <lecturer>Перцев Тимофей Сергеевич</lecturer>
+                    <format>Очно - дистанционный</format>
+                </information>
+            </class>
+            <class>
+                <time>
+                    <start>11:40</start>
+                    <end>13:10</end>
+                    <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+                </time>
+                <adress>
+                    <auditorium>2435/4 (БЫВШ. 431В) АУД.</auditorium>
+                    <campus>Кронверкский пр., д.49, лит.А</campus>
+                </adress>
+                <information>
+                    <title>ПРОГРАММИРОВАНИЕ(ЛАБ)</title>
+                    <lecturer>Райла Мартин</lecturer>
+                    <format>Очно - дистанционный</format>
+                </information>
+            </class>
+            <class>
+                <time>
+                    <start>13:30</start>
+                    <end>15:00</end>
+                    <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+                </time>
+                <adress>
+                    <auditorium>2435/4 (БЫВШ. 431В) АУД.</auditorium>
+                    <campus>Кронверкский пр., д.49, лит.А</campus>
+                </adress>
+                <information>
+                    <title>ПРОГРАММИРОВАНИЕ(ЛАБ)</title>
+                    <lecturer>Райла Мартин</lecturer>
+                    <format>Очно - дистанционный</format>
+                </information>
+            </class>
+        </schedule>
+    </day>
+</xml>
